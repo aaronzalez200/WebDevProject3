@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/WebDevProject3/static/css/main.54b0d770.css",
+    "main.css": "/WebDevProject3/static/css/main.d2eab43e.css",
     "main.js": "/WebDevProject3/static/js/main.745f0f3b.js",
     "static/media/TreeHardLogo.png": "/WebDevProject3/static/media/TreeHardLogo.329847ac55fab92ee7d1.png",
     "index.html": "/WebDevProject3/index.html",
-    "main.54b0d770.css.map": "/WebDevProject3/static/css/main.54b0d770.css.map",
+    "main.d2eab43e.css.map": "/WebDevProject3/static/css/main.d2eab43e.css.map",
     "main.745f0f3b.js.map": "/WebDevProject3/static/js/main.745f0f3b.js.map"
   },
   "entrypoints": [
-    "static/css/main.54b0d770.css",
+    "static/css/main.d2eab43e.css",
     "static/js/main.745f0f3b.js"
   ]
 }
