@@ -21,7 +21,7 @@ export default function App() {
       />
     )
   }, [])
-
+//
   return (
     <div>
       <Navbar image={dota2Data.profile.avatarfull}/> 
