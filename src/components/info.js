@@ -1,9 +1,6 @@
 import React from "react";
 
 export default function Info(props) {
-    //Conditional here later
-
-
 
     return (
         <div className="Info">
