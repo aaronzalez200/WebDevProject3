@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/WebDevProject3/static/css/main.9c5e2148.css",
-    "main.js": "/WebDevProject3/static/js/main.37d14f8b.js",
-    "index.html": "/WebDevProject3/index.html",
-    "main.9c5e2148.css.map": "/WebDevProject3/static/css/main.9c5e2148.css.map",
-    "main.37d14f8b.js.map": "/WebDevProject3/static/js/main.37d14f8b.js.map"
+    "main.css": "/Dota2ScoutingWebsite/static/css/main.9c5e2148.css",
+    "main.js": "/Dota2ScoutingWebsite/static/js/main.37d14f8b.js",
+    "index.html": "/Dota2ScoutingWebsite/index.html",
+    "main.9c5e2148.css.map": "/Dota2ScoutingWebsite/static/css/main.9c5e2148.css.map",
+    "main.37d14f8b.js.map": "/Dota2ScoutingWebsite/static/js/main.37d14f8b.js.map"
   },
   "entrypoints": [
     "static/css/main.9c5e2148.css",
